@@ -6,8 +6,6 @@ This repo contains code to:
 * Estimate the marginal impacts of temperature and precipitation for different geographic regions and times of season
 
 # Contents
-## writeup.pdf
-Contains a preprint of a brief paper summarizing implementation and results
 
 # linear_models.ipynb
 Contains implementation of a linear baseline model, to verify that the deep learning approach presents an improvement
