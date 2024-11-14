@@ -32,4 +32,4 @@ Implementations of helper classes for:
 * Helpers to read and format data inputs
 
 # networks/
-Contains an implementation of the deep learning network helper class, and two sample networks.
+Contains an implementation of the deep learning network helper class, and two simple example networks.
